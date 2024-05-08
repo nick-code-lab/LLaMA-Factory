@@ -34,7 +34,6 @@ num_train_epochs: 3.0
 lr_scheduler_type: cosine
 warmup_steps: 0.1
 fp16: true
-use_unsloth: true
 
 # eval
 per_device_eval_batch_size: 1
