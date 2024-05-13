@@ -8,7 +8,7 @@ finetuning_type: lora
 lora_target: all
 
 # dataset
-dataset: identity
+dataset: identity,rgm_knowledge
 template: llama3
 cutoff_len: 1024
 max_samples: 1000
